@@ -30,8 +30,8 @@ I code with **VS Code** and track everything with **Git** — because good code 
 ### 📊 GitHub Stats
 
 <p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyauzyolk)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyauzyolk" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk&layout=compact" />
 </p>
 
 ---
@@ -39,9 +39,7 @@ I code with **VS Code** and track everything with **Git** — because good code 
 ### 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nyauzyolk@outlook.com)
-[![Telegram](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=telegram&logoColor=white)](https://t.me/@NoaSalt)
-
-*Replace the links above with your real contact info!*
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/NoaSalt)
 
 ---
 
