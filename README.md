@@ -32,29 +32,16 @@ I code with **VS Code** and track everything with **Git** — because good code 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyauzyolk&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk&layout=compact&theme=react&hide_border=true" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyauzyolk)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk)
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyauzyolk&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- **🚧 Project One** – *Coming soon!* A full-stack app with Vue.js and PHP.
-- **🚧 Project Two** – *In progress.* A Dockerized development environment for quick setups.
-
-*More projects on the way — stay tuned!*
 
 ---
 
 ### 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nyauzyolk@outlook.com)
-[![Telegram](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=trlrgram&logoColor=white)](https://t.me/@NoaSalt)
+[![Telegram](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=telegram&logoColor=white)](https://t.me/@NoaSalt)
 
 *Replace the links above with your real contact info!*
 
