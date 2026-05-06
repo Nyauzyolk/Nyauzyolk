@@ -1,6 +1,6 @@
 # Hi there, I'm Nyauzyolk 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&width=435&lines=Web+Developer;Vue.js+%26+PHP+Enthusiast;Docker+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&width=435&lines=Web+Developer;Vue.js+%26+PHP+Enthusiast)](https://git.io/typing-svg)
 
 My daily setup: **Windows** as my main OS, but I often jump into **Debian-based** Linux distros for development.  
 I code with **VS Code** and track everything with **Git** — because good code deserves good history.
@@ -30,8 +30,12 @@ I code with **VS Code** and track everything with **Git** — because good code 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyauzyolk" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyauzyolk&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyauzyolk&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
