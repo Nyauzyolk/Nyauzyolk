@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&width=435&lines=Web+Developer;Vue.js+%26+PHP+Enthusiast;Docker+Explorer)](https://git.io/typing-svg)
 
-I'm a 17-year-old web developer who loves building clean, fast, and practical web applications.  
-I mainly work with **Vue.js** on the frontend and **PHP** on the backend, and I containerize almost everything with **Docker**.  
 My daily setup: **Windows** as my main OS, but I often jump into **Debian-based** Linux distros for development.  
 I code with **VS Code** and track everything with **Git** — because good code deserves good history.
 
@@ -32,8 +30,8 @@ I code with **VS Code** and track everything with **Git** — because good code 
 ### 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyauzyolk)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyauzyolk)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk)
 </p>
 
 ---
