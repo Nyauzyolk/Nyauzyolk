@@ -30,8 +30,8 @@ I code with **VS Code** and track everything with **Git** — because good code 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyauzyolk&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk&layout=compact&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nyauzyolk&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyauzyolk&layout=compact&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
