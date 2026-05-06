@@ -1,6 +1,6 @@
 # Hi there, I'm Nyauzyolk 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&width=435&lines=Web+Developer;Vue.js+%26+PHP+Enthusiast;Docker+Explorer;17-year-old+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&width=435&lines=Web+Developer;Vue.js+%26+PHP+Enthusiast;Docker+Explorer)](https://git.io/typing-svg)
 
 I'm a 17-year-old web developer who loves building clean, fast, and practical web applications.  
 I mainly work with **Vue.js** on the frontend and **PHP** on the backend, and I containerize almost everything with **Docker**.  
